@@ -1,4 +1,4 @@
-# Anush Iyer — Portfolio (Vite + React + Bootstrap)
+# Anush Iyer — Portfolio 
 
 Generated from Anush's resume.
 
